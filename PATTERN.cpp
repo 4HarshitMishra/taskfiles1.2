@@ -2,8 +2,9 @@
 using namespace std;
 
 //------------------video refernce---------------------------
-
-/*int main(){
+//nre comment added
+//use of fork 
+int main(){
     int row,col,n;
     cout<<"enter the number: ";
     cin>>n;
@@ -15,7 +16,7 @@ using namespace std;
         cout<<endl;
     }
     return 0;
-}*/
+}
 
 /*int main(){
     int row,col,n;
